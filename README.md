@@ -1,7 +1,7 @@
 # MaxQL
 
 ### Description:
-- This add-on will convert the scraping results filter of each supported add-on to either 1080P or 4K with 1-click<br>
+- This add-on will convert the scraping results filter of each supported add-on to either 1080P or 4K with 1-click.<br><br>
 
 
 <p>Convert to 1080P<br>
