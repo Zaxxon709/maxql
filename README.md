@@ -8,7 +8,7 @@
 RunPlugin(plugin://script.module.maxql/?mode=1)</p>
 
 <p>Convert to 4K<br>
-RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
+RunPlugin(plugin://script.module.maxql/?mode=2)</p>
 
 
 ### Supported Addons:
