@@ -4,7 +4,7 @@
 - With 1-click this add-on will convert the max quality filter for all supported add-ons to either 1080P or 4K.<br><br>
 
 
-### Conversion:
+### Conversion Built-in Commands:
 <p>Convert to 1080P<br>
 RunPlugin(plugin://script.module.maxql/?mode=1)</p>
 
