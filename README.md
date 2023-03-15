@@ -15,21 +15,22 @@ RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
 ### Supported Addons:
 1.  Seren<br>
 2.  Fen<br>
-3.  Ezra<br>
-4.  Ghost<br>
-5.  Shadow<br>
-6.  Chain Reaction<br>
-7.  Genocide<br>
-8.  Twisted<br>
-9.  Base19<br>
-10. M.E.T.V<br>
-11. Asgard<br>
-12. Magic Dragon<br>
-13. Aliunde<br>
-14. Umbrella<br>
-15. Homelander<br>
-16. The Crew<br>
-17. Nightwing<br>
-18. Moria<br>
-19. The Promise<br>
-20. Scrubs V2<br>
+3.  POV<br>
+4.  Ezra<br>
+5.  Ghost<br>
+6.  Shadow<br>
+7.  Chain Reaction<br>
+8.  Genocide<br>
+9.  Twisted<br>
+10. Base19<br>
+11. M.E.T.V<br>
+12. Asgard<br>
+13. Magic Dragon<br>
+14. Aliunde<br>
+15. Umbrella<br>
+16. Homelander<br>
+17. The Crew<br>
+18. Nightwing<br>
+19. Moria<br>
+20. The Promise<br>
+21. Scrubs V2<br>
