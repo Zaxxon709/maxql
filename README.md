@@ -20,7 +20,7 @@ RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
 5.  Ghost<br>
 6.  Shadow<br>
 7.  Chain Reaction<br>
-8.  Genocide<br>
+8.  Unleashed<br>
 9.  Twisted<br>
 10. Base19<br>
 11. M.E.T.V<br>
