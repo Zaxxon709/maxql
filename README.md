@@ -34,3 +34,4 @@ RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
 19. Moria<br>
 20. The Promise<br>
 21. Scrubs V2<br>
+22. Shazam<br>
