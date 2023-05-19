@@ -35,3 +35,5 @@ RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
 20. The Promise<br>
 21. Scrubs V2<br>
 22. Shazam<br>
+23. Alvin<br>
+24. Chains Genocide
