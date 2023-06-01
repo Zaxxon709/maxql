@@ -39,3 +39,4 @@ RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
 22. Shazam<br>
 23. Alvin<br>
 24. Chains Genocide
+25. Quicksilver
