@@ -6,6 +6,14 @@
 ### 709 Repository
 [![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.zip)
 
+### Instructions for adding this repo's source:
+
+<ul>
+    <li>Open the Kodi File Manager</li>
+    <li>Select "Add source"</li>
+    <li>The path for the source is <code>https://zaxxon709.github.io/repo/</code> (Give it the name "709REPO")</li>
+</ul> 
+
 ### Conversion Built-in Commands:
 <p>Convert to 1080P<br>
 RunPlugin(plugin://script.module.maxql/?mode=1)</p>
