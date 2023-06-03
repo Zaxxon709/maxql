@@ -6,7 +6,7 @@
 ### 709 Repository
 [![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.zip)
 
-### Instructions for adding this repo's source:
+### Instructions for adding this repo in Kodi:
 
 <ul>
     <li>Open the Kodi File Manager</li>
