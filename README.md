@@ -27,24 +27,25 @@ RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
 2.  Fen<br>
 3.  POV<br>
 4.  Ezra<br>
-5.  Ghost<br>
-6.  Shadow<br>
-7.  Chain Reaction<br>
-8.  Unleashed<br>
-9.  Twisted<br>
-10. Base19<br>
-11. M.E.T.V<br>
-12. Asgard<br>
-13. Magic Dragon<br>
-14. Aliunde<br>
-15. Umbrella<br>
-16. Homelander<br>
-17. The Crew<br>
-18. Nightwing<br>
-19. Moria<br>
-20. The Promise<br>
-21. Scrubs V2<br>
-22. Shazam<br>
-23. Alvin<br>
-24. Chains Genocide
-25. Quicksilver
+5.  Coalition<br>
+6.  Ghost<br>
+7.  Shadow<br>
+8.  Chain Reaction<br>
+9.  Unleashed<br>
+10. Twisted<br>
+11. Base19<br>
+12. M.E.T.V<br>
+13. Asgard<br>
+14. Magic Dragon<br>
+15. Aliunde<br>
+16. Umbrella<br>
+17. Homelander<br>
+18. The Crew<br>
+19. Nightwing<br>
+20. Moria<br>
+21. Absolution<br>
+22. Scrubs V2<br>
+23. Shazam<br>
+24. Alvin<br>
+25. Chains Genocide
+26. Quicksilver
