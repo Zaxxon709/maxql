@@ -34,7 +34,7 @@ RunPlugin(plugin://script.module.maxql/?mode=5)</p>
 RunPlugin(plugin://script.module.maxql/?mode=6)</p>
 
 
-### Supported Max Resolution Addons:
+### Max Resolution Supported Addons:
 1.  Seren<br>
 2.  Fen<br>
 3.  POV<br>
