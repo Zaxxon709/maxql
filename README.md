@@ -15,7 +15,7 @@
 </ul> 
 
 ### Built-in Commands:
-<p>Enable Max 4K Resolutiuon<br>
+<p>Enable Max 4K Resolution<br>
 RunPlugin(plugin://script.module.maxql/?mode=1)</p>
 
 <p>Enable Max 1080P Resolution<br>
