@@ -1,7 +1,7 @@
 # MaxQL
 
 ### Description:
-- With 1-click this add-on will convert the max quality filter for all supported add-ons to either 1080P or 4K.<br><br>
+- This add-on will enable/disable add-on filters (4K, 1080P, Dolby Vision, 3D) for supported add-ons.<br><br>
 
 ### 709 Repository
 [![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.zip)
