@@ -31,7 +31,7 @@ RunPlugin(plugin://script.module.maxql/?mode=4)</p>
 RunPlugin(plugin://script.module.maxql/?mode=5)</p>
 
 <p>Disable 3D<br>
-RunPlugin(plugin://script.module.maxql/?mode=6)</p><br>
+RunPlugin(plugin://script.module.maxql/?mode=6)</p>
 
 
 ### Supported Max Resolution Addons:
