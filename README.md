@@ -19,13 +19,13 @@
 RunPlugin(plugin://script.module.maxql/?mode=1)</p>
 
 <p>Enable Max 1080P Resolution<br>
-RunPlugin(plugin://script.module.maxql/?mode=2)</p><br>
+RunPlugin(plugin://script.module.maxql/?mode=2)</p>
 
 <p>Enable Dolby Vision<br>
 RunPlugin(plugin://script.module.maxql/?mode=3)</p>
 
 <p>Disable Dolby Vision<br>
-RunPlugin(plugin://script.module.maxql/?mode=4)</p><br>
+RunPlugin(plugin://script.module.maxql/?mode=4)</p>
 
 <p>Enable 3D<br>
 RunPlugin(plugin://script.module.maxql/?mode=5)</p>
