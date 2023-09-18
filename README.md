@@ -14,7 +14,7 @@
     <li>The path for the source is <code>https://zaxxon709.github.io/repo/</code> (Give it the name "709REPO")</li>
 </ul> 
 
-### Conversion Built-in Commands:
+### Built-in Commands:
 <p>Enable Max 4K Resolutiuon<br>
 RunPlugin(plugin://script.module.maxql/?mode=1)</p>
 
