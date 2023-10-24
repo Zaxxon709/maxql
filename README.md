@@ -16,22 +16,22 @@
 
 ### Built-in Commands:
 <p>Enable Max 4K Resolution<br>
-RunPlugin(plugin://script.module.maxql/?mode=1)</p>
+RunPlugin(plugin://plugin.program.maxql/?mode=1)</p>
 
 <p>Enable Max 1080P Resolution<br>
-RunPlugin(plugin://script.module.maxql/?mode=2)</p>
+RunPlugin(plugin://plugin.program.maxql/?mode=2)</p>
 
 <p>Enable Dolby Vision<br>
-RunPlugin(plugin://script.module.maxql/?mode=3)</p>
+RunPlugin(plugin://plugin.program.maxql/?mode=3)</p>
 
 <p>Disable Dolby Vision<br>
-RunPlugin(plugin://script.module.maxql/?mode=4)</p>
+RunPlugin(plugin://plugin.program.maxql/?mode=4)</p>
 
 <p>Enable 3D<br>
-RunPlugin(plugin://script.module.maxql/?mode=5)</p>
+RunPlugin(plugin://plugin.program.maxql/?mode=5)</p>
 
 <p>Disable 3D<br>
-RunPlugin(plugin://script.module.maxql/?mode=6)</p>
+RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 
 
 ### Max Resolution Supported Addons:
