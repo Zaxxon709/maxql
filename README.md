@@ -81,7 +81,7 @@ RunPlugin(plugin://script.module.maxql/?mode=6)</p>
 6.  Umbrella<br>
 7.  Taz19<br>
 8.  Homelander<br>
-9.  Thelab
+9.  TheLab
 10. Quciksilver<br>
 11. Nightwing<br>
 12. Chains Genocide<br>
