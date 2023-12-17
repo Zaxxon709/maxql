@@ -38,77 +38,80 @@ RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 
 1.  Seren<br>
 2.  Fen<br>
-3.  Ezra<br>
-4.  Coalition<br>
-5.  POV<br>                  
-6.  Umbrella<br>
-7.  Dradis<br>
-8.  Taz19<br>
-9.  Shadow<br>
-10. Ghost<br>
-11. Base19<br>
-12. Unleashed <br>           
-13. Chain Reaction<br>
-14. Magic Dragon<br>
-15. Asgard<br>
-16. Patriot<br>
-17. Black Lightning<br>
-18. Aliunde K19<br>
-19. Twisted<br>
-20. M.E.T.V 19<br>
-21. Homelander<br>
-22. TheLab<br>
-23. Quicksilver<br>
-24. Chains Genocide<br>
-25. Absolution <br>      
-26. Shazam<br>
-27. The Crew<br>              
-28. Nightwing<br> 
-29. Alvin<br>
-30. Moria<br>
-31. 9 Lives<br>
-32. Scrubs V2<br>
-33. TheLabjr<br>
+3.  Fen Light<br>
+4.  Ezra<br>
+5.  Coalition<br>
+6.  POV<br>                  
+7.  Umbrella<br>
+8.  Dradis<br>
+9.  Taz19<br>
+10. Shadow<br>
+11. Ghost<br>
+12. Base<br>
+13. Unleashed <br>           
+14. Chain Reaction<br>
+15. Magic Dragon<br>
+16. Asgard<br>
+17. Patriot<br>
+18. Black Lightning<br>
+19. Aliunde K19<br>
+20. Twisted<br>
+21. M.E.T.V 19<br>
+22. Homelander<br>
+23. TheLab<br>
+24. Quicksilver<br>
+25. Chains Genocide<br>
+26. Absolution <br>      
+27. Shazam<br>
+28. The Crew<br>              
+29. Nightwing<br> 
+30. Alvin<br>
+31. Moria<br>
+32. 9 Lives<br>
+33. Scrubs V2<br>
+34. TheLabjr<br>
 
 
 ### Dolby Vision Supported Addons:
 
 1.  Seren<br>
 2.  Fen<br>
-3.  Ezra<br>
-4.  Coalition<br>
-5.  POV<br>
-6.  Umbrella<br>
-7.  Taz19<br>
-8.  Homelander<br>
-9.  TheLab
-10. Quciksilver<br>
-11. Nightwing<br>
-12. Chains Genocide<br>
-13. Absolution<br>
-14. Shazam<br>
-15. Alvin<br>
-16. Moria<br>
-17. 9-Lives
+3.  Fen Light<br>
+4.  Ezra<br>
+5.  Coalition<br>
+6.  POV<br>
+7.  Umbrella<br>
+8.  Taz19<br>
+9.  Homelander<br>
+10. TheLab
+11. Quciksilver<br>
+12. Nightwing<br>
+13. Chains Genocide<br>
+14. Absolution<br>
+15. Shazam<br>
+16. Alvin<br>
+17. Moria<br>
+18. 9-Lives
 
 
 ### 3D Supported Addons:
 
 1.  Seren<br>
 2.  Fen<br>
-3.  Ezra<br>
-4.  Coalition<br>
-5.  POV<br>
-6.  Umbrella<br>
-7.  Taz19<br>
-8.  Shadow<br>
-9.  Ghost<br>
-10. Base19<br>
-11. Unleashed<br>
-12. Chain Reaction<br>
-13. Magic Dragon<br>
-14. Asgard<br>
-15. Patriot<br>
-16. Black Lightning
-17. Aliunde<br>
-18. M.E.T.V<br>
+3.  Fen Light<br>
+4.  Ezra<br>
+5.  Coalition<br>
+6.  POV<br>
+7.  Umbrella<br>
+8.  Taz19<br>
+9.  Shadow<br>
+10. Ghost<br>
+11. Base<br>
+12. Unleashed<br>
+13. Chain Reaction<br>
+14. Magic Dragon<br>
+15. Asgard<br>
+16. Patriot<br>
+17. Black Lightning
+18. Aliunde<br>
+19. M.E.T.V<br>
