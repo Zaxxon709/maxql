@@ -39,37 +39,38 @@ RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 1.  Seren<br>
 2.  Fen<br>
 3.  Fen Light<br>
-4.  Ezra<br>
-5.  Coalition<br>
-6.  POV<br>                  
-7.  Umbrella<br>
-8.  Dradis<br>
-9.  Taz19<br>
-10. Shadow<br>
-11. Ghost<br>
-12. Base<br>
-13. Unleashed <br>           
-14. Chain Reaction<br>
-15. Magic Dragon<br>
-16. Asgard<br>
-17. Patriot<br>
-18. Black Lightning<br>
-19. Aliunde K19<br>
-20. Twisted<br>
-21. M.E.T.V 19<br>
-22. Homelander<br>
-23. TheLab<br>
-24. Quicksilver<br>
-25. Chains Genocide<br>
-26. Absolution <br>      
-27. Shazam<br>
-28. The Crew<br>              
-29. Nightwing<br> 
-30. Alvin<br>
-31. Moria<br>
-32. 9 Lives<br>
-33. Scrubs V2<br>
-34. TheLabjr<br>
+4.  afFENity<br>
+5.  Ezra<br>
+6.  Coalition<br>
+7.  POV<br>                  
+8.  Umbrella<br>
+9.  Dradis<br>
+10. Taz19<br>
+11. Shadow<br>
+12. Ghost<br>
+13. Base<br>
+14. Unleashed <br>           
+15. Chain Reaction<br>
+16. Magic Dragon<br>
+17. Asgard<br>
+18. Patriot<br>
+19. Black Lightning<br>
+20. Aliunde<br>
+21. Twisted<br>
+22. M.E.T.V 19<br>
+23. Homelander<br>
+24. TheLab<br>
+25. Quicksilver<br>
+26. Chains Genocide<br>
+27. Absolution <br>      
+28. Shazam<br>
+29. The Crew<br>              
+30. Nightwing<br> 
+31. Alvin<br>
+32. Moria<br>
+33. Nine Lives<br>
+34. Scrubs V2<br>
+35. TheLabjr<br>
 
 
 ### Dolby Vision Supported Addons:
@@ -77,21 +78,22 @@ RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 1.  Seren<br>
 2.  Fen<br>
 3.  Fen Light<br>
-4.  Ezra<br>
-5.  Coalition<br>
-6.  POV<br>
-7.  Umbrella<br>
-8.  Taz19<br>
-9.  Homelander<br>
-10. TheLab
-11. Quciksilver<br>
-12. Nightwing<br>
-13. Chains Genocide<br>
-14. Absolution<br>
-15. Shazam<br>
-16. Alvin<br>
-17. Moria<br>
-18. 9-Lives
+4.  afFENity<br>
+5.  Ezra<br>
+6.  Coalition<br>
+7.  POV<br>
+8.  Umbrella<br>
+9.  Taz19<br>
+10. Homelander<br>
+11. TheLab
+12. Quciksilver<br>
+13. Nightwing<br>
+14. Chains Genocide<br>
+15. Absolution<br>
+16. Shazam<br>
+17. Alvin<br>
+18. Moria<br>
+19. Nine Lives
 
 
 ### 3D Supported Addons:
@@ -99,19 +101,20 @@ RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 1.  Seren<br>
 2.  Fen<br>
 3.  Fen Light<br>
-4.  Ezra<br>
-5.  Coalition<br>
-6.  POV<br>
-7.  Umbrella<br>
-8.  Taz19<br>
-9.  Shadow<br>
-10. Ghost<br>
-11. Base<br>
-12. Unleashed<br>
-13. Chain Reaction<br>
-14. Magic Dragon<br>
-15. Asgard<br>
-16. Patriot<br>
-17. Black Lightning
-18. Aliunde<br>
-19. M.E.T.V<br>
+4.  afFENity<br>
+5.  Ezra<br>
+6.  Coalition<br>
+7.  POV<br>
+8.  Umbrella<br>
+9.  Taz19<br>
+10. Shadow<br>
+11. Ghost<br>
+12. Base<br>
+13. Unleashed<br>
+14. Chain Reaction<br>
+15. Magic Dragon<br>
+16. Asgard<br>
+17. Patriot<br>
+18. Black Lightning
+19. Aliunde<br>
+20. M.E.T.V<br>
