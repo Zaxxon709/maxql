@@ -33,8 +33,9 @@ RunPlugin(plugin://plugin.program.maxql/?mode=5)</p>
 <p>Disable 3D<br>
 RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 
+### Supported Addons:
 
-### Max Resolution Supported Addons:
+### Max Resolution
 
 1.  Seren<br>
 2.  Fen<br>
@@ -73,7 +74,7 @@ RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 35. TheLabjr<br>
 
 
-### Dolby Vision Supported Addons:
+### Dolby Vision
 
 1.  Seren<br>
 2.  Fen<br>
@@ -96,7 +97,7 @@ RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
 19. Nine Lives
 
 
-### 3D Supported Addons:
+### 3D
 
 1.  Seren<br>
 2.  Fen<br>
