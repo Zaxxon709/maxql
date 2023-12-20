@@ -31,7 +31,7 @@ RunPlugin(plugin://plugin.program.maxql/?mode=4)</p>
 RunPlugin(plugin://plugin.program.maxql/?mode=5)</p>
 
 <p>Disable 3D<br>
-RunPlugin(plugin://plugin.program.maxql/?mode=6)</p>
+RunPlugin(plugin://plugin.program.maxql/?mode=6)</p><br>
 
 ### Supported Addons:
 
