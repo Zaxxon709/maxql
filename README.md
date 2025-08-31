@@ -67,4 +67,5 @@ RunPlugin(plugin://plugin.program.maxql/?mode=8)</p><br>
 23. Alvin<br>
 24. Moria<br>
 25. Nine Lives<br>
-26. Scrubs V2
+26. Otaku<br>
+27. Scrubs V2
